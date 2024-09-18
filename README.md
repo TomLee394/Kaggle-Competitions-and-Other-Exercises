@@ -1,4 +1,5 @@
 # Kaggle-Competitions-and-Other-Exercises
+Code for some projects I worked on during my Master's program.
 
 1. Ames Housing Data Regression. This code is for a linear regression model to predict house prices.
    Based on the Kaggle Ames Housing Dataset (https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
